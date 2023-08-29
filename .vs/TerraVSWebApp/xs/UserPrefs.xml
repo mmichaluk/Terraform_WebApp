@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{70549523-8877-4486-A56D-0B990AFDFB86}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{70549523-8877-4486-A56D-0B990AFDFB86}|Default">
   <MonoDevelop.Ide.ItemProperties.TerraVSWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench>
     <Files>
@@ -9,14 +9,12 @@
         <State name="__root__">
           <Node name="TerraVSWebApp" expanded="True">
             <Node name="TerraVSWebApp" expanded="True">
-              <Node name="Dependencies" selected="True" />
-              <Node name="Pages" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
